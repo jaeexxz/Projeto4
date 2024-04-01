@@ -4,4 +4,5 @@
 #calc:hover{
     background-color: black;
     color: aqua;
+    cursor: pointer;
 }
